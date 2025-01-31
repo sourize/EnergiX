@@ -1,4 +1,4 @@
-### Energy Consumption Model
+# EnergiX : Energy Consumption Model
 
 This model predicts energy consumption using a dataset that includes factors such as site name, department, electric utility, building type, address, year, current solar usage, peak electric demand, building area, natural gas usage, latitude, longitude, and electricity usage.
 
